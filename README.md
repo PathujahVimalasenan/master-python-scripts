@@ -1,6 +1,4 @@
 # master-python-scripts
-Python scripts for masteroppgaven min
-# master-python-scripts
 
 Dette repositoriet inneholder Python-skriptene brukt i masteroppgaven min.
 
