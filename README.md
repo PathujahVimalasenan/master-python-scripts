@@ -1,11 +1,11 @@
-# master-python-scripts
+# Master-python-scripts
 
 Dette repositoriet inneholder Python-skriptene brukt i masteroppgaven min.
 
 ## Mappestruktur
 
 - `data/`: Rådata og inputfiler   
-- `scripts/`: Python-skript  
+- `python scripts/`: Python-skript  
 - `requirements.txt`: Liste over nødvendige pakker  
 - `.gitignore`: Filer som skal ignoreres  
 - `README.md`: Denne dokumentasjonen  
