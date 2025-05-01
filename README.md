@@ -4,11 +4,8 @@ Dette repositoriet inneholder Python-skriptene brukt i masteroppgaven min.
 
 ## Mappestruktur
 
-- `data/`: Rådata og inputfiler  
-- `notebooks/`: Jupyter notebooks  
+- `data/`: Rådata og inputfiler   
 - `scripts/`: Python-skript  
-- `models/`: Lagrede modeller  
-- `results/`: Figurer og output  
 - `requirements.txt`: Liste over nødvendige pakker  
 - `.gitignore`: Filer som skal ignoreres  
 - `README.md`: Denne dokumentasjonen  
