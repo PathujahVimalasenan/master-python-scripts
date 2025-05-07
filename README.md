@@ -5,7 +5,8 @@ Dette repositoriet inneholder Python-skriptene brukt i masteroppgaven min.
 ## Mappestruktur
 
 - `Data/`: Rådata og inputfiler   
-- `Python scripts/`: Python-skript  
+- `Python scripts/`: Python-skript
+- `Plots/`: Fullstendige sammenligningsplott
 - `requirements.txt`: Liste over nødvendige pakker  
 - `.gitignore`: Filer som skal ignoreres  
 - `README.md`: Denne dokumentasjonen  
