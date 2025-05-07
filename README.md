@@ -1,6 +1,6 @@
 # Master-python-scripts
 
-Dette repositoriet inneholder Python-skriptene brukt i masteroppgaven min.
+Dette repositoriet inneholder Python-skriptene og relevante data brukt i masteroppgaven min.
 
 ## Mappestruktur
 
